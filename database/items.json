@@ -1,0 +1,20 @@
+{
+    "items":[
+        {"id":1,"category":"dell","name":"Inspiron","price":10000,"img":"./images/dell-inspiron.png"},
+        {"id":2,"category":"dell","name":"Precision","price":44000,"img":"./images/dell-precision.png"},
+        {"id":3,"category":"dell","name":"G15","price":45009,"img":"./images/dellG15.png"},
+        {"id":4,"category":"dell","name":"Vostron","price":23000,"img":"./images/dellVostron15.png"},
+        {"id":5,"category":"asus","name":"TUF","price":23000,"img":"./images/tuf.png"},
+        {"id":6,"category":"asus","name":"vivobook11","price":34500,"img":"./images/vivobook11.png"},
+        {"id":7,"category":"asus","name":"vivobook23ultra","price":50000,"img":"./images/vivobook12.png"},
+        {"id":8,"category":"asus","name":"vivobook","price":98000,"img":"./images/vivobook23ultra.png"},
+        {"id":9,"category":"hp","name":"Hp15","price":10000,"img":"./images/hp 15.png"},
+        {"id":10,"category":"hp","name":"Hp-gaming","price":44000,"img":"./images/hp-gaming.png"},
+        {"id":11,"category":"hp","name":"hp15s","price":45009,"img":"./images/hp15s.png"},
+        {"id":12,"category":"hp","name":"Victus","price":23000,"img":"./images/victus.png"},
+        {"id":13,"category":"msi","name":"Msi Thin","price":23000,"img":"./images/msi modern.png"},
+        {"id":14,"category":"msi","name":"Msi Modern","price":34500,"img":"./images/msi thin.png"},
+        {"id":15,"category":"msi","name":"sword","price":50000,"img":"./images/sword.png"},
+        {"id":16,"category":"msi","name":"sword 16","price":98000,"img":"./images/sword16.png"}
+    ]
+}
